@@ -1,4 +1,4 @@
-# Olá! Eu sou o Vinicius! 👋👨‍💻
+# Hi, my name is Vinicius and I'm a Web Developer! 👨‍💻☕
 
 ##
 
