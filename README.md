@@ -1,4 +1,17 @@
-# Hi, my name is Vinicius and I'm a Web Developer! 👨‍💻☕
+# Hi, my name is Vinicius! 👨‍💻☕
+
+### About me
+I'm a Web Developer with experience in:
+- HTML5;
+- CSS3;
+- JavaScript;
+- SQL/MySQL/PostgreSQL;
+- UX/UI Design;
+- Linux;
+- Salesforce (Marketing Cloud).
+
+### Technologies e Tools
+<img src="{https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white}" />
 
 ##
 
