@@ -1,9 +1,7 @@
-# ☺️☕Hi, my name is Vinicius!
+# 🧑‍💻☕Hi, my name is Vinicius and I'm a Web Developer!
 
-### About me
-I'm a Web Developer 
 
-### 🧑‍💻Technologies e Tools
+### 🚀Technologies e Tools
 <div>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
@@ -17,7 +15,8 @@ I'm a Web Developer
   <img src="https://img.shields.io/badge/Salesforce-00A1E0?style=for-the-badge&logo=Salesforce&logoColor=white" />
 </div>
 
-### Social Networks
+
+### ✅Social Networks
 <div>
   <a href="https://www.linkedin.com/in/marcos-vinicius-ferreira-de-oliveira/ target="_blank" "><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <a href = "https://viniciusfer263@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
